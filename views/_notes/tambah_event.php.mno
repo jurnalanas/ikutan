@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tempat" value="name:idtempat;datatype:int,name:tempat;datatype:string,name:nama_tempat;datatype:string" />
+	<infoitem key="UD_kategori" value="name:idkategori;datatype:int,name:Kategori;datatype:string" />
+</info>

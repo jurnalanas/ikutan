@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_eventitem" value="name:pembuat;datatype:string,name:tanggal;datatype:string,name:tempat;datatype:string,name:idevent;datatype:int,name:nama;datatype:string,name:img;datatype:string,name:deskripsi;datatype:string" />
+	<infoitem key="UD_komentar" value="name:id_komen;datatype:int,name:ownerevent;datatype:string,name:nama_event;datatype:string,name:status;datatype:string,name:komentator;datatype:string,name:komentar;datatype:string,name:id_event;datatype:int" />
+</info>
