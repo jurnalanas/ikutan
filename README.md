@@ -8,4 +8,4 @@ A responsive web app that help college student to organize and collaborate event
 
 ![preview](7.jpg)
 
-Watch on [SpeakerDeck](https://speakerdeck.com/anasbladz/i-kutan "I-Kutan").
+More previews on [SpeakerDeck](https://speakerdeck.com/anasbladz/i-kutan "I-Kutan").
